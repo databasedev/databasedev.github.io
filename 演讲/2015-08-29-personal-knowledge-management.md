@@ -147,7 +147,7 @@ Keep It Simple, Stupid
 # 发布
 
 - 技术笔记<http://www.GitBook.com>
-- 博客<http://blog.jimmylv.info>
+- 博客<http://databasedev.github.io>
 - anywhere...
 
 [slide]

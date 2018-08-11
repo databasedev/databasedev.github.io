@@ -44,7 +44,7 @@ published: True
     + **能分到这个应用当中的都是有价值的工作，需要被进入被反馈被进一步改善。**
     + 所以相应的就需要 @滴答清单 来管理所有的 Todos 列表，什么东西都可以往里面丢。
 - 单一入口，定制化与智能化
-    + 参考自己的一篇博文，[由写作环境引起的反思：单一入口的智能化 - 吕立青的博客](https://blog.jimmylv.info/2015-05-12-intellectual-and-single-entrance/)
+    + 参考自己的一篇博文，[由写作环境引起的反思：单一入口的智能化 - 吕立青的博客](https://databasedev.github.io/2015-05-12-intellectual-and-single-entrance/)
     + 手机端的搜索也要利用起来，类 Alfred 的 Spotlight Search，虽然在电脑端被我弃用。
     + 新系统 macOS Sierra 重点推 Siri
         * 但是显然 Siri 还没好到让我把它当做第一入口来使，普通话识别效果跟个 shit 一样。

@@ -17,7 +17,7 @@ published: True
 
 我们都一样，渴望着建树功勋、改变世界，可是伴随着年岁的增长，却发现想要实现的梦想依然那么遥远，而时间却依然残酷地流逝着，不会仅仅因为是「你」而发生丝毫的改变。如《奇特的一生》当中所言，我对时间始终充满着敬畏之心，最好的方式也不过是奢求时间能够跟自己做朋友，伴随着我这也许注定朴实无华的一生，共同成长。
 
-在我们的一生所能做的事情里边儿，睡眠占去 1/3，此生只剩 2/3，除去非做不可的[基本生活维护成本](http://blog.jimmylv.info/2015-09-05-periodically-anxiety/#title0)过后，剩下的时间要么选择浪费而荒度此生，要么选择目标而奋力向前，让这一生不留遗憾。Follow your heart，你需要找到一些愿意为其付诸终身的「目标」，以这样的姿态「生活在这世界上」。
+在我们的一生所能做的事情里边儿，睡眠占去 1/3，此生只剩 2/3，除去非做不可的[基本生活维护成本](http://databasedev.github.io/2015-09-05-periodically-anxiety/#title0)过后，剩下的时间要么选择浪费而荒度此生，要么选择目标而奋力向前，让这一生不留遗憾。Follow your heart，你需要找到一些愿意为其付诸终身的「目标」，以这样的姿态「生活在这世界上」。
 
 ### 敏捷与个人成长
 
@@ -38,7 +38,7 @@ published: True
 
 ### 通过 GitHub Issues 收集需求
 
-首先你可以给自己建一个 GitHub 仓库作为主页，比如我的 [JimmyLv/jimmylv.github.io: Agile Learning based on GitHub issues](https://github.com/JimmyLv/jimmylv.github.io) 其实最开始就是从[个人博客](http://blog.jimmylv.info/)的主仓库发展而来。那么，如何快速得收纳自己的想法呢？以解决问题为导向，当然就是有什么需求就直接给自己的 repo 建一个 issue 作为 Story Card，然后了却这个需求的最终形态就是 close 掉这个 Issue，比如我要写这篇文章就始于这个 issue：[基于 GitHub 的敏捷学习方法总结 · Issue #36 · JimmyLv/jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io/issues/36)。
+首先你可以给自己建一个 GitHub 仓库作为主页，比如我的 [JimmyLv/jimmylv.github.io: Agile Learning based on GitHub issues](https://github.com/JimmyLv/jimmylv.github.io) 其实最开始就是从[个人博客](http://databasedev.github.io/)的主仓库发展而来。那么，如何快速得收纳自己的想法呢？以解决问题为导向，当然就是有什么需求就直接给自己的 repo 建一个 issue 作为 Story Card，然后了却这个需求的最终形态就是 close 掉这个 Issue，比如我要写这篇文章就始于这个 issue：[基于 GitHub 的敏捷学习方法总结 · Issue #36 · JimmyLv/jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io/issues/36)。
 
 ![GitHub README](//o7mw3gkkh.qnssl.com/images/2016/1480841415310.png)
 

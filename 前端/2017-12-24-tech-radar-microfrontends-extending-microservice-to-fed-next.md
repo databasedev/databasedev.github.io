@@ -8,9 +8,9 @@ published: True
 
 ## 前言与大纲
 
-> 本文分为[理论](https://blog.jimmylv.info/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed/)和[实战](https://blog.jimmylv.info/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed-next/)上下两篇。本篇为微前端的实战篇，共计约 5k 字，预计阅读时间 10 mins。
+> 本文分为[理论](https://databasedev.github.io/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed/)和[实战](https://databasedev.github.io/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed-next/)上下两篇。本篇为微前端的实战篇，共计约 5k 字，预计阅读时间 10 mins。
 
-在[技术雷达之「微前端」- 将微服务理念扩展到前端开发（上：理论篇）](https://blog.jimmylv.info/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed/)中，我们介绍了微前端在单体应用和微服务的架构演进中所产生的缘由，将微服务理念运用到前端开发就是为了解决臃肿前端的当前现状。与此同时，合理拆分微前端也给我们的应用开发带来显而易见的好处，在本篇当中我们将逐一介绍微前端的实践方案与可能遇到的问题和对应的优化建议。
+在[技术雷达之「微前端」- 将微服务理念扩展到前端开发（上：理论篇）](https://databasedev.github.io/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed/)中，我们介绍了微前端在单体应用和微服务的架构演进中所产生的缘由，将微服务理念运用到前端开发就是为了解决臃肿前端的当前现状。与此同时，合理拆分微前端也给我们的应用开发带来显而易见的好处，在本篇当中我们将逐一介绍微前端的实践方案与可能遇到的问题和对应的优化建议。
 
 - [微前端的可选实践方案（4 种 +）](#title7)
   - [创建更小的 Apps（而不是 Components）](#title8)
@@ -383,7 +383,7 @@ start();
 
 ## 附：参考资料
 
-> 本次技术雷达「微前端」主题的宣讲 Slides 可以在我的博客找到：[「技术雷达」之 Micro Frontends：微前端 - 将微服务理念扩展到前端开发 - 吕立青的博客](https://blog.jimmylv.info/2017-12-22-tech-radar-microfrontends-extending-microservice-to-fed/)
+> 本次技术雷达「微前端」主题的宣讲 Slides 可以在我的博客找到：[「技术雷达」之 Micro Frontends：微前端 - 将微服务理念扩展到前端开发 - 吕立青的博客](https://databasedev.github.io/2017-12-22-tech-radar-microfrontends-extending-microservice-to-fed/)
 
 ![](https://o7mw3gkkh.qnssl.com/images/2017/12/1514125808768.png)
 

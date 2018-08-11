@@ -34,7 +34,7 @@ published: True
 
 至此，就可以使用 `webpack-dev-server` 命令直接启动服务了，默认启动端口 8080，通过 [localhost:8080/webpack-dev-server/](localhost:8080/webpack-dev-server/) 路径就可以访问到页面了，文件修改后会在页面头部看到 Sever 的状态变化，并且会进行热替换，实现页面的自动刷新。
 
-对于 React 的配置来说稍有所不同，参考文章 <https://segmentfault.com/a/1190000002551952#articleHeader10>，还可以实现组件级的刷新，甚至不用刷新整个页面，所以就[避免了在调试的时候每次刷新都要重新来过的痛苦](http://blog.jimmylv.info/2016-02-21-Chinese-Version-of-React.js-Best-Practices-for-2016#title17)。
+对于 React 的配置来说稍有所不同，参考文章 <https://segmentfault.com/a/1190000002551952#articleHeader10>，还可以实现组件级的刷新，甚至不用刷新整个页面，所以就[避免了在调试的时候每次刷新都要重新来过的痛苦](http://databasedev.github.io/2016-02-21-Chinese-Version-of-React.js-Best-Practices-for-2016#title17)。
 
     entry: [
       'webpack-dev-server/client?http://0.0.0.0:8080', // WebpackDevServer host and port

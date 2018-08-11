@@ -8,7 +8,7 @@ published: True
 
 ## 前言
 
-> 本文分为[理论](https://blog.jimmylv.info/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed/)和[实战](https://blog.jimmylv.info/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed-next/)上下两篇。本篇为技术雷达之「微前端」- 将微服务理念扩展到前端开发（上：理论篇），共计约 2k 字，预计阅读时间 5 mins。
+> 本文分为[理论](https://databasedev.github.io/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed/)和[实战](https://databasedev.github.io/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed-next/)上下两篇。本篇为技术雷达之「微前端」- 将微服务理念扩展到前端开发（上：理论篇），共计约 2k 字，预计阅读时间 5 mins。
 
 在 ThoughtWorks 正式发布的最新一期技术雷达（下载地址：[technology-radar-vol-17-cn.pdf](https://assets.thoughtworks.com/assets/technology-radar-vol-17-cn.pdf)）当中，「微前端（Micro Fontends）」已经进入到**试验**阶段，而试验环所列出的技术是我们认为值得去追求的。理解如何建立这种能力对您所在的组织十分重要，现在就可以尝试在一个低风险的项目上试点和实践这项技术，帮助您真正地了解这门技术。
 
@@ -88,4 +88,4 @@ published: True
 
 ## 续：微前端的实践方案
 
-本文的下篇即[技术雷达之「微前端」- 将微服务理念扩展到前端开发（下：实战篇）](https://blog.jimmylv.info/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed-next/)将逐一介绍微前端实战中超过 4 种的可选实践方案和多模块页面加载可能出现的问题与优化建议，最后对微前端的优缺点进行总结并提出了一些新的思考。
+本文的下篇即[技术雷达之「微前端」- 将微服务理念扩展到前端开发（下：实战篇）](https://databasedev.github.io/2017-12-24-tech-radar-microfrontends-extending-microservice-to-fed-next/)将逐一介绍微前端实战中超过 4 种的可选实践方案和多模块页面加载可能出现的问题与优化建议，最后对微前端的优缺点进行总结并提出了一些新的思考。
